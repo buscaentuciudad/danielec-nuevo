@@ -1,14 +1,19 @@
-DANIELEC.ES COPYRIGHT
+Danielec Componentes S.L.
+Marca registrada / Copyright
 ====================
-véa Lisencia.txt
+Ver licence.txt
 
-Autor del sitio web: byronbutler.com
+Este sitio web y su contenido son propiedad de Danielec Componentes S.L. - © danielec.es 2019. Todos los derechos reservados.
 
-Copyright (c) 2019 Danielec Componentes S.L.
-All Rights Reserved.
+Se prohíbe cualquier redistribución o reproducción de parte o la totalidad de los contenidos en cualquier forma que no sea lo siguiente:
 
-DANIELEC COMPONENTES S.L.
-CIF: B72022213
-Domicilio: C/ NUESTRO PADRE JESÚS 1 – CP: 11130 CHICLANA DE LA FRONTERA (CÁDIZ)
-Teléfono: 956 40 79 28
-Mail: info@danielec.es
+    * puede imprimir o descargar en un disco duro local extractos solo para su uso personal y no comercial
+    * puede copiar el contenido a terceros individuales para su uso personal, pero solo si reconoce que el sitio web es la fuente del material.
+    *No debes:
+
+        - Volver a publicar material de danielec.es
+        -Vender, alquilar o sublicenciar material de danielec.es
+        -Reproducir, duplicar o copiar material de danielec.es
+        -Redistribuir contenido de danielec.es
+
+No puede, excepto con nuestro permiso expreso por escrito, distribuir o explotar comercialmente el contenido. Tampoco puede transmitirlo o almacenarlo en ningún otro sitio web u otra forma de sistema de recuperación electrónica.
