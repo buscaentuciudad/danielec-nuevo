@@ -1,19 +1,27 @@
 Licencia.
 
-El contenido proporcionado por danielec.es, que incluye información, datos, material, texto, diseños, gráficos, imágenes, video, 
-fotografías, aplicaciones, software, audio y otros archivos, y su selección y presentación, es propiedad de Danielec Componentes S.L. 
-o tiene licencia de Danielec Componentes S.L. por parte de terceros. Está protegido por derechos de autor, marca registrada y otros 
-derechos de propiedad intelectual según corresponda y se proporciona únicamente para su propio uso. Se prohíbe la republicación o 
-redistribución del contenido, incluso por enmarcado o medios similares.
+A menos que se indique lo contrario, Danielec Componentes S.L. y / o sus licenciantes poseen los derechos de propiedad intelectual de todo el material en danielec.es. Todos los derechos de propiedad intelectual están reservados. Puede acceder a esto desde danielec.es para su propio uso personal sujeto a las restricciones establecidas en estos términos y condiciones.
 
-A menos que se indique lo contrario, The Byron-Butler Corporation Ltd como autor y Danielec Componentes S.L. como propietario, poseen 
-los derechos de propiedad intelectual de todo el material en danielec.es. Todos los derechos de propiedad intelectual están reservados.
-Puede acceder a esto desde danielec.es para su uso personal, sujeto a las restricciones establecidas en estos términos y condiciones.
+El contenido de danielec.es se proporciona "tal cual", "según esté disponible" y "con todas las fallas" solo para su información y uso
+personal, no comercial, y no puede descargarse, copiarse, reproducirse, distribuirse, transmitirse, mostrarse, venderse, licenciarse o explotarse de otra forma para ningún propósito sin el consentimiento previo por escrito de Danielec Componentes S.L. Este Acuerdo no otorga cualquier derecho o licencia bajo cualquier derecho de autor, marca registrada, patente u otro derecho o licencia de propiedad. Danielec Componentes S.L. se reserva todos los derechos no otorgados expresamente en el Contenido de danielec.es, este Sitio y los Servicios, y este Acuerdo no transfiere la propiedad de ninguno de estos derechos.
 
+No debes:
 
-El Contenido de danielec.es se le proporciona "tal cual", "según esté disponible" y "con todas las fallas" solo para su información y uso
-personal, no comercial, y no se puede descargar, copiar, reproducir, distribuir, transmitir, mostrar, vender, licenciar o explotar de 
-otra manera para cualquier propósito sin el consentimiento previo por escrito de Danielec Componentes S.L. Este Acuerdo no otorga ningún 
-derecho o licencia bajo ningún derecho de autor, marca registrada, patente u otro derecho o licencia de propiedad. Danielec Componentes S.L.
-se reserva todos los derechos no otorgados expresamente en el Contenido de danielec.es, este Sitio y los Servicios, y este Acuerdo no 
-transfiere la propiedad de ninguno de estos derechos.
+Volver a publicar material de danielec.es
+Vender, alquilar o sublicenciar material de danielec.es
+Reproduzca, duplique o copie material de danielec.es
+Redistribuir contenido de danielec.es
+
+Este Acuerdo comenzará en la fecha del mismo.
+
+Partes de este sitio web ofrecen una oportunidad para que los usuarios publiquen e intercambien opiniones e información en ciertas áreas del sitio web. Danielec Componentes S.L. no filtra, edita, publica ni revisa los comentarios antes de su presencia en el sitio web. Los comentarios no reflejan los puntos de vista y opiniones de Danielec Componentes S.L., sus agentes y / o afiliados. Los comentarios reflejan los puntos de vista y opiniones de la persona que publica sus puntos de vista y opiniones. En la medida permitida por las leyes aplicables, Danielec Componentes S.L. no será responsable de los Comentarios o de cualquier responsabilidad, daños o gastos causados y / o sufridos como resultado de cualquier uso y / o publicación de y / o aparición de los comentarios en este sitio web. </p>
+
+Danielec Componentes S.L se reserva el derecho de monitorear todos los Comentarios y eliminar cualquier Comentario que pueda considerarse inapropiado, ofensivo o que infrinja estos Términos y Condiciones.
+
+Usted garantiza y declara que:
+    -Tiene derecho a publicar los Comentarios en nuestro sitio web y tiene todas las licencias y consentimientos necesarios para hacerlo;
+    -Los comentarios no invaden ningún derecho de propiedad intelectual, incluidos, entre otros, los derechos de autor, patentes o marcas registradas de terceros;
+    -Los comentarios no contienen ningún material difamatorio, difamatorio, ofensivo, indecente o ilegal que sea una invasión de la privacidad.
+    -Los comentarios no se utilizarán para solicitar o promover negocios o actividades comerciales personalizadas o presentes o actividades ilegales.
+    - Por la presente, otorga a Danielec Componentes S.L. una licencia no exclusiva para usar, reproducir, editar y autorizar a otros a usar, reproducir y editar cualquiera de sus Comentarios en cualquiera de sus formas, formatos o medios.
+    
