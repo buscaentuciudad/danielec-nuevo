@@ -1,0 +1,14 @@
+# Robots.txt file for www.danielec.es
+
+User-agent: *
+Allow: /index.html
+Disallow: /process.php
+Disallow: /style.css
+Disallow: /sitemap.xml
+Disallow: /terms-conditions.html
+Disallow: /privacy-policy.html
+Disallow: /licence.txt
+Disallow: /disclaimer.txt
+Disallow: /copyright.txt
+
+sitemap: https://www.danielec.es/sitemap.xml
