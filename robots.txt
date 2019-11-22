@@ -10,5 +10,6 @@ Disallow: /privacy-policy.html
 Disallow: /licence.txt
 Disallow: /disclaimer.txt
 Disallow: /copyright.txt
+Disallow: /404.html
 
 sitemap: https://www.danielec.es/sitemap.xml
