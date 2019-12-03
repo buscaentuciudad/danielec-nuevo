@@ -2,6 +2,7 @@
 
 User-agent: *
 Allow: /index.html
+Allow: /contactenos.html
 Disallow: /process.php
 Disallow: /style.css
 Disallow: /sitemap.xml
