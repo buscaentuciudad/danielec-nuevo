@@ -1,0 +1,19 @@
+#cajacookies {
+    box-shadow: 0px 0px 5px 5px #808080;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px;
+    margin-left: 0px;
+    margin-right: -15px;
+    margin-bottom: 0px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    z-index: 20;
+}
+
+#cajacookies button {
+    color: white;
+    background-color: orange;
+    border: 0;
+}
